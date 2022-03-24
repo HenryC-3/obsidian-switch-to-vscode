@@ -1,10 +1,10 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-switch-to-vscode",
+	"name": "switch to vscode",
 	"version": "1.0.1",
 	"minAppVersion": "0.12.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"isDesktopOnly": false
+	"description": "open current file in vscode",
+	"author": "HenryC-3",
+	"authorUrl": "https://github.com/HenryC-3/obsidian-switch-to-vscode",
+	"isDesktopOnly": true
 }
